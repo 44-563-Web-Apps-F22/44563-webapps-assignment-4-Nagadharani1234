@@ -1,0 +1,61 @@
+.direction {
+    color: black;
+    font-size: medium;
+    background-color: coral;
+    
+     font-family:Arial, Helvetica, sans-serif
+   }
+   .direction:hover {
+     color: blueviolet;
+     background-color: aliceblue;
+   }
+   .name {
+    color: black;
+     font-size: medium;
+     font-family:Arial, Helvetica, sans-serif
+   }
+   .SOL {
+     color: black;
+      font-size: medium;
+      font-family:Arial, Helvetica, sans-serif
+    }
+    .CHORUS {
+     color: green;
+      font-size: medium;
+      font-family:Arial, Helvetica, sans-serif
+    }
+    .SOL {
+     color: green;
+      font-size: medium;
+      font-family:Arial, Helvetica, sans-serif
+    }
+    .STR {
+     color: green;
+      font-size: medium;
+      font-family:Arial, Helvetica, sans-serif
+    }
+    .CHA {
+     color: green;
+      font-size: medium;
+      font-family:Arial, Helvetica, sans-serif
+    }
+    .MOU {
+     color:hotpink;
+      font-size: medium;
+      font-family:Arial, Helvetica, sans-serif
+    }
+    .MOU{
+     color:darksalmon;
+     font-size: medium;
+     font-family:Arial, Helvetica, sans-serif
+    }
+    .SONG {
+     color:aquamarine;
+      font-size: medium;
+      font-family:Arial, Helvetica, sans-serif
+    }
+    .SPEECH {
+     color:blanchedalmond;
+      font-size: medium;
+      font-family:Arial, Helvetica, sans-serif
+    }
